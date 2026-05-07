@@ -49,7 +49,7 @@ void blink_once(unsigned int delay_ms)
  */
 void blink_n_times(unsigned int n, unsigned int delay_ms)
 {
-    /* TODO (Ejercicio E): implement on branch feat/blink-n-times */
+    /Increment n times at delay_ms intervals *\/
     (void)n;
     (void)delay_ms;
 }
